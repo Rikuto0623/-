@@ -1,0 +1,195 @@
+
+/* Class = "UILabel"; text = "神奈川県には、小田原城があります。"; ObjectID = "1Pz-MY-uqJ"; */
+"1Pz-MY-uqJ.text" = "神奈川県には、小田原城があります。";
+
+/* Class = "UILabel"; text = "クリア表"; ObjectID = "26O-bb-jTt"; */
+"26O-bb-jTt.text" = "クリア表";
+
+/* Class = "UILabel"; text = "問題１　どこにあるお城か"; ObjectID = "62E-wp-nIT"; */
+"62E-wp-nIT.text" = "問題１　どこにあるお城か";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "7I5-oq-bvN"; */
+"7I5-oq-bvN.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7I5-oq-bvN"; */
+"7I5-oq-bvN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "レベル97"; ObjectID = "9EY-cN-Gak"; */
+"9EY-cN-Gak.text" = "レベル97";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "Azf-uk-La1"; */
+"Azf-uk-La1.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Azf-uk-La1"; */
+"Azf-uk-La1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "Bfn-yB-qfd"; */
+"Bfn-yB-qfd.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bfn-yB-qfd"; */
+"Bfn-yB-qfd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "オメガぴょん"; ObjectID = "CNh-4n-Myv"; */
+"CNh-4n-Myv.configuration.title" = "オメガぴょん";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CNh-4n-Myv"; */
+"CNh-4n-Myv.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "EVp-W8-ewo"; */
+"EVp-W8-ewo.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EVp-W8-ewo"; */
+"EVp-W8-ewo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "クイズ"; ObjectID = "GR5-VI-15k"; */
+"GR5-VI-15k.text" = "クイズ";
+
+/* Class = "UILabel"; text = "問題１　どこにあるお城か"; ObjectID = "Gek-bt-sOz"; */
+"Gek-bt-sOz.text" = "問題１　どこにあるお城か";
+
+/* Class = "UIButton"; configuration.title = "次へ"; ObjectID = "Gwy-Rm-dgY"; */
+"Gwy-Rm-dgY.configuration.title" = "次へ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gwy-Rm-dgY"; */
+"Gwy-Rm-dgY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "HWW-rF-1al"; */
+"HWW-rF-1al.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HWW-rF-1al"; */
+"HWW-rF-1al.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "はお城を検索でき、検索したお城のクイズができます。ランダムモー"; ObjectID = "IXh-CS-u2f"; */
+"IXh-CS-u2f.text" = "はお城を検索でき、検索したお城のクイズができます。ランダムモー";
+
+/* Class = "UILabel"; text = "進化5"; ObjectID = "JyP-26-zHa"; */
+"JyP-26-zHa.text" = "進化5";
+
+/* Class = "UILabel"; text = "お城クイズへようこそ"; ObjectID = "Kqp-rT-4hL"; */
+"Kqp-rT-4hL.text" = "お城クイズへようこそ";
+
+/* Class = "UILabel"; text = "C 　秋田県"; ObjectID = "LTG-n8-amZ"; */
+"LTG-n8-amZ.text" = "C 　秋田県";
+
+/* Class = "UILabel"; text = "オメガ城〜オメガぴょんの下剋上〜"; ObjectID = "MZf-vL-xnC"; */
+"MZf-vL-xnC.text" = "オメガ城〜オメガぴょんの下剋上〜";
+
+/* Class = "UILabel"; text = "〇〇城OK"; ObjectID = "O8d-Di-FVW"; */
+"O8d-Di-FVW.text" = "〇〇城OK";
+
+/* Class = "UIButton"; configuration.title = "検索"; ObjectID = "Oc5-aZ-6gB"; */
+"Oc5-aZ-6gB.configuration.title" = "検索";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Oc5-aZ-6gB"; */
+"Oc5-aZ-6gB.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "次へ"; ObjectID = "PcE-xq-zPl"; */
+"PcE-xq-zPl.configuration.title" = "次へ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PcE-xq-zPl"; */
+"PcE-xq-zPl.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "クリア表"; ObjectID = "RjZ-Zq-6X9"; */
+"RjZ-Zq-6X9.configuration.title" = "クリア表";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RjZ-Zq-6X9"; */
+"RjZ-Zq-6X9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "秋田県には、久保田城があります。"; ObjectID = "UDG-Y1-llf"; */
+"UDG-Y1-llf.text" = "秋田県には、久保田城があります。";
+
+/* Class = "UILabel"; text = "検索"; ObjectID = "UMf-jP-zgB"; */
+"UMf-jP-zgB.text" = "検索";
+
+/* Class = "UILabel"; text = "このアプリではお城に関する、クイズが6問出てきます。検索モードで"; ObjectID = "VH9-SC-aND"; */
+"VH9-SC-aND.text" = "このアプリではお城に関する、クイズが6問出てきます。検索モードで";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "Wh7-SG-RU7"; */
+"Wh7-SG-RU7.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wh7-SG-RU7"; */
+"Wh7-SG-RU7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "B　神奈川県"; ObjectID = "X9a-Vt-gL7"; */
+"X9a-Vt-gL7.text" = "B　神奈川県";
+
+/* Class = "UILabel"; text = "D 　群馬県"; ObjectID = "XAh-6U-JV1"; */
+"XAh-6U-JV1.text" = "D 　群馬県";
+
+/* Class = "UILabel"; text = "解説"; ObjectID = "ZFh-De-85I"; */
+"ZFh-De-85I.text" = "解説";
+
+/* Class = "UILabel"; text = "ドでは30個あるお城からランダムに一つのお城が選ばれ、そのお城に"; ObjectID = "ZxV-wr-PdM"; */
+"ZxV-wr-PdM.text" = "ドでは30個あるお城からランダムに一つのお城が選ばれ、そのお城に";
+
+/* Class = "UIButton"; configuration.title = "オメガぴょん"; ObjectID = "ama-tb-xha"; */
+"ama-tb-xha.configuration.title" = "オメガぴょん";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ama-tb-xha"; */
+"ama-tb-xha.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "bnF-9a-iUN"; */
+"bnF-9a-iUN.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bnF-9a-iUN"; */
+"bnF-9a-iUN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "A 　兵庫県"; ObjectID = "fxr-pd-tfy"; */
+"fxr-pd-tfy.text" = "A 　兵庫県";
+
+/* Class = "UIButton"; configuration.title = "クイズ"; ObjectID = "jn8-tK-yoL"; */
+"jn8-tK-yoL.configuration.title" = "クイズ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jn8-tK-yoL"; */
+"jn8-tK-yoL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "答えは、Aの兵庫県です。"; ObjectID = "miY-Gj-dH4"; */
+"miY-Gj-dH4.text" = "答えは、Aの兵庫県です。";
+
+/* Class = "UIButton"; configuration.title = "クリア表"; ObjectID = "oEW-hC-Qfw"; */
+"oEW-hC-Qfw.configuration.title" = "クリア表";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oEW-hC-Qfw"; */
+"oEW-hC-Qfw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "オメガぴょん"; ObjectID = "qsI-5J-rrO"; */
+"qsI-5J-rrO.text" = "オメガぴょん";
+
+/* Class = "UILabel"; text = "クイズを正解してオメガを稼ぎオメガぴょんを育てていこう。"; ObjectID = "sef-wL-aI9"; */
+"sef-wL-aI9.text" = "クイズを正解してオメガを稼ぎオメガぴょんを育てていこう。";
+
+/* Class = "UIButton"; configuration.title = "検索"; ObjectID = "taq-Xn-hem"; */
+"taq-Xn-hem.configuration.title" = "検索";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "taq-Xn-hem"; */
+"taq-Xn-hem.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "関するクイズが出てきます。"; ObjectID = "v7Y-v5-Yqg"; */
+"v7Y-v5-Yqg.text" = "関するクイズが出てきます。";
+
+/* Class = "UIButton"; configuration.title = "回答"; ObjectID = "wUF-DB-7uc"; */
+"wUF-DB-7uc.configuration.title" = "回答";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wUF-DB-7uc"; */
+"wUF-DB-7uc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "A 　兵庫県"; ObjectID = "wdn-zb-bgE"; */
+"wdn-zb-bgE.text" = "A 　兵庫県";
+
+/* Class = "UIButton"; configuration.title = "戻る"; ObjectID = "whz-gN-p4v"; */
+"whz-gN-p4v.configuration.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "whz-gN-p4v"; */
+"whz-gN-p4v.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "群馬県には、金山城があります。"; ObjectID = "ytQ-Il-OH4"; */
+"ytQ-Il-OH4.text" = "群馬県には、金山城があります。";
+
+/* Class = "UILabel"; text = "わくにお城の名前を入れてね"; ObjectID = "z6c-5a-ns4"; */
+"z6c-5a-ns4.text" = "わくにお城の名前を入れてね";
+
+/* Class = "UIButton"; configuration.title = "クイズ"; ObjectID = "zko-hc-nfk"; */
+"zko-hc-nfk.configuration.title" = "クイズ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zko-hc-nfk"; */
+"zko-hc-nfk.normalTitle" = "Button";
