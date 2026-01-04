@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BCD48BF32EC7D50C000F1F3A /* Ω.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ω.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCD48BF32EC7D50C000F1F3A /* Siro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Siro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		BCD48C052EC7D50E000F1F3A /* Exceptions for "Ω" folder in "Ω" target */ = {
+		BCD48C052EC7D50E000F1F3A /* Exceptions for "Ω" folder in "Siro" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = BCD48BF22EC7D50C000F1F3A /* Ω */;
+			target = BCD48BF22EC7D50C000F1F3A /* Siro */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		BCD48BF52EC7D50C000F1F3A /* Ω */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				BCD48C052EC7D50E000F1F3A /* Exceptions for "Ω" folder in "Ω" target */,
+				BCD48C052EC7D50E000F1F3A /* Exceptions for "Ω" folder in "Siro" target */,
 			);
 			path = "Ω";
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		BCD48BF42EC7D50C000F1F3A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BCD48BF32EC7D50C000F1F3A /* Ω.app */,
+				BCD48BF32EC7D50C000F1F3A /* Siro.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BCD48BF22EC7D50C000F1F3A /* Ω */ = {
+		BCD48BF22EC7D50C000F1F3A /* Siro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BCD48C062EC7D50E000F1F3A /* Build configuration list for PBXNativeTarget "Ω" */;
+			buildConfigurationList = BCD48C062EC7D50E000F1F3A /* Build configuration list for PBXNativeTarget "Siro" */;
 			buildPhases = (
 				BCD48BEF2EC7D50C000F1F3A /* Sources */,
 				BCD48BF02EC7D50C000F1F3A /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				BCD48BF52EC7D50C000F1F3A /* Ω */,
 			);
-			name = "Ω";
+			name = Siro;
 			packageProductDependencies = (
 			);
 			productName = "Ω";
-			productReference = BCD48BF32EC7D50C000F1F3A /* Ω.app */;
+			productReference = BCD48BF32EC7D50C000F1F3A /* Siro.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BCD48BEE2EC7D50B000F1F3A /* Build configuration list for PBXProject "Ω" */;
+			buildConfigurationList = BCD48BEE2EC7D50B000F1F3A /* Build configuration list for PBXProject "Siro" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BCD48BF22EC7D50C000F1F3A /* Ω */,
+				BCD48BF22EC7D50C000F1F3A /* Siro */,
 			);
 		};
 /* End PBXProject section */
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BCD48BEE2EC7D50B000F1F3A /* Build configuration list for PBXProject "Ω" */ = {
+		BCD48BEE2EC7D50B000F1F3A /* Build configuration list for PBXProject "Siro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BCD48C092EC7D50E000F1F3A /* Debug */,
@@ -323,7 +323,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BCD48C062EC7D50E000F1F3A /* Build configuration list for PBXNativeTarget "Ω" */ = {
+		BCD48C062EC7D50E000F1F3A /* Build configuration list for PBXNativeTarget "Siro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BCD48C072EC7D50E000F1F3A /* Debug */,

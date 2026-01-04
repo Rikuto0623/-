@@ -11,9 +11,9 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jn8-tK-yoL">
@@ -85,9 +85,9 @@
         <!--View Controller-->
         <scene sceneID="qNX-nG-1e9">
             <objects>
-                <viewController id="ioW-Al-eV8" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ioW-Al-eV8" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ErT-V7-jTj">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HWW-rF-1al">
@@ -180,7 +180,7 @@
         <!--View Controller-->
         <scene sceneID="DDn-ks-TWp">
             <objects>
-                <viewController id="PRv-dJ-gzz" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="PRv-dJ-gzz" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7jz-2h-d5L">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -244,7 +244,7 @@
         <!--View Controller-->
         <scene sceneID="iNs-VK-BYL">
             <objects>
-                <viewController id="lW3-fc-8yR" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="lW3-fc-8yR" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zic-n7-fc7">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -284,9 +284,9 @@
         <!--View Controller-->
         <scene sceneID="Gg0-9g-W8X">
             <objects>
-                <viewController id="smr-kG-bE0" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="smr-kG-bE0" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ZSx-oD-4DG">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wh7-SG-RU7">
@@ -345,9 +345,9 @@
         <!--View Controller-->
         <scene sceneID="OCG-i4-4sN">
             <objects>
-                <viewController id="nlC-bD-KAA" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="nlC-bD-KAA" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cNb-P6-Goa">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bnF-9a-iUN">
@@ -427,9 +427,9 @@
         <!--View Controller-->
         <scene sceneID="dXn-X4-Y9e">
             <objects>
-                <viewController id="N1T-Rf-2kR" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="N1T-Rf-2kR" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="0O8-6h-96S">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Azf-uk-La1">
@@ -527,8 +527,22 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="〇〇城OK" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pN6-wc-LtU">
+                                <rect key="frame" x="0.0" y="335" width="144" height="26"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="〇〇城OK" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bzn-L2-7Nk">
                                 <rect key="frame" x="152" y="301" width="144" height="26"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="〇〇城OK" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZZV-bY-bSV">
+                                <rect key="frame" x="152" y="335" width="144" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <nil key="textColor"/>
@@ -547,9 +561,9 @@
         <!--View Controller-->
         <scene sceneID="1wB-Un-TXw">
             <objects>
-                <viewController id="oeo-gG-Qx4" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="oeo-gG-Qx4" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="LIH-xB-T3Y">
-                        <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
+                        <rect key="frame" x="0.0" y="0.0" width="420" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EVp-W8-ewo">
@@ -599,7 +613,7 @@
         <!--View Controller-->
         <scene sceneID="WwR-0Q-zSl">
             <objects>
-                <viewController id="8KV-h8-c8J" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8KV-h8-c8J" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="VBl-2L-YHN">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -842,7 +856,7 @@
         <!--View Controller-->
         <scene sceneID="qx1-S1-Ci1">
             <objects>
-                <viewController id="Hsx-aH-3vc" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Hsx-aH-3vc" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Mre-en-RHx">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -886,7 +900,7 @@
         <!--View Controller-->
         <scene sceneID="QrO-88-orN">
             <objects>
-                <viewController id="SIG-7o-hFN" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="SIG-7o-hFN" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="X4f-fw-fFX">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="912"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -974,7 +988,7 @@
         <!--View Controller-->
         <scene sceneID="cTN-9m-wCn">
             <objects>
-                <viewController id="pWb-AP-qGv" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="pWb-AP-qGv" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zzf-ys-jfV">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1060,7 +1074,7 @@
         <!--View Controller-->
         <scene sceneID="TW1-7Z-lwb">
             <objects>
-                <viewController id="kuO-Gj-UJY" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="kuO-Gj-UJY" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qhc-FH-4em">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1104,7 +1118,7 @@
         <!--View Controller-->
         <scene sceneID="0Et-Yo-icQ">
             <objects>
-                <viewController id="FRU-pO-rwz" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FRU-pO-rwz" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rf7-lk-wDt">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1187,7 +1201,7 @@
         <!--View Controller-->
         <scene sceneID="Y2h-x1-caP">
             <objects>
-                <viewController id="M6j-8L-QXI" customClass="ViewController" customModule="Ω" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="M6j-8L-QXI" customClass="ViewController" customModule="Siro" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="opN-Nf-sVV">
                         <rect key="frame" x="0.0" y="0.0" width="420" height="834"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1302,7 +1316,7 @@
         <segue reference="WzH-xy-9H7"/>
         <segue reference="3ii-gM-s4R"/>
         <segue reference="i89-ZQ-LE8"/>
-        <segue reference="mtS-iP-QSy"/>
+        <segue reference="RUG-40-8tL"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="usagi" width="65.333335876464844" height="85.666664123535156"/>
